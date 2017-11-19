@@ -1,0 +1,7 @@
+export const URL_PARAMS_UPDATE = 'Route/URL_PARAMS_UPDATE';
+export const LOAD_CONTACTS = 'Contacts/LOAD_CONTACTS';
+export const LOAD_CONTACTS_SUCCESS = 'Contacts/LOAD_CONTACTS_SUCCESS';
+export const LOAD_CONTACTS_ERROR = 'Contacts/LOAD_CONTACTS_ERROR';
+export const LOAD_CONTACT = 'Contact/LOAD_CONTACT';
+export const LOAD_CONTACT_SUCCESS = 'Contact/LOAD_CONTACT_SUCCESS';
+export const LOAD_CONTACT_ERROR = 'Contact/LOAD_CONTACT_ERROR';

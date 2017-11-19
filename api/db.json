@@ -1,0 +1,131 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alla Pugachyova",
+      "calls": 2
+    },
+    {
+      "id": 2,
+      "name": "Maksim Galkin",
+      "calls": 1
+    },
+    {
+      "id": 3,
+      "name": "Phillip Kirkorov",
+      "calls": 3
+    },
+    {
+      "id": 4,
+      "name": "Oleg Gazmanov",
+      "calls": 3
+    },
+    {
+      "id": 5,
+      "name": "Irina Saltykova",
+      "calls": 3
+    }
+  ],
+  "detailed": [
+    {
+      "id": 1,
+      "name": "Alla Pugachyova",
+      "phone": "+74955552233",
+      "email": "alla@pugacheva.ru",
+      "history": [
+        {
+          "type": "incoming",
+          "time": "2017-11-18T15:50:42.389Z",
+          "duration": "02:23"
+        },
+        {
+          "type": "outgoing",
+          "time": "2017-11-18T16:43:12.223Z",
+          "duration": "01:12"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Maksim Galkin",
+      "phone": "+74955552234",
+      "email": "maxim@pugacheva.ru",
+      "history": [
+        {
+          "type": "missed",
+          "time": "2017-11-20T09:12:41.503Z",
+          "duration": "00:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Phillip Kirkorov",
+      "phone": "+74951112233",
+      "email": "phil_me@mail.ru",
+      "history": [
+        {
+          "type": "missed",
+          "time": "2017-11-19T08:12:00.355Z",
+          "duration": "00:00"
+        },
+        {
+          "type": "missed",
+          "time": "2017-11-19T09:28:11.003Z",
+          "duration": "00:00"
+        },
+        {
+          "type": "missed",
+          "time": "2017-11-19T09:29:42.503Z",
+          "duration": "00:00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Oleg Gazmanov",
+      "phone": "+74955555555",
+      "email": "olegg@gmail.com",
+      "history": [
+        {
+          "type": "incoming",
+          "time": "2017-11-17T12:30:01.355Z",
+          "duration": "12:23"
+        },
+        {
+          "type": "incoming",
+          "time": "2017-11-18T15:56:46.836Z",
+          "duration": "05:39"
+        },
+        {
+          "type": "incoming",
+          "time": "2017-11-19T11:27:29.523Z",
+          "duration": "12:25"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Irina Saltykova",
+      "phone": "+74951115577",
+      "email": "irina@saltykova.ru",
+      "history": [
+        {
+          "type": "incoming",
+          "time": "2017-11-17T12:30:01.355Z",
+          "duration": "12:23"
+        },
+        {
+          "type": "incoming",
+          "time": "2017-11-18T15:56:46.836Z",
+          "duration": "05:39"
+        },
+        {
+          "type": "incoming",
+          "time": "2017-11-19T11:27:29.523Z",
+          "duration": "12:25"
+        }
+      ]
+    }
+  ]
+}

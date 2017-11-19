@@ -9,3 +9,14 @@ Dependency: Browser extension for redux debug https://github.com/zalmoxisus/redu
 
 - `yarn start` - runs back and front
 - `npm run build:dev` - builds dev version
+
+
+## TODO
+- selectors
+- errors handling + empty result
+- loading indicators
+- edit form + create form
+- pagination
+
+
+Totally spent ~16h

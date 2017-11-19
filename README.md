@@ -3,7 +3,7 @@
 Dependency: Browser extension for redux debug https://github.com/zalmoxisus/redux-devtools-extension
 
 ## Setup
-`npm install`
+`yarn install`
 
 ## CLI
 
